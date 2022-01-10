@@ -1,0 +1,21 @@
+.jumbotron {
+  padding-top: 80px;
+  background-color: rgb(111, 207, 191);
+  background: ul(gambar.jpg);
+  background-repeat: repeat;
+  color: aliceblue;
+}
+#Cards {
+  background-color: #00cba9;
+}
+#contact {
+  background-color: #f3f4f5;
+}
+
+footer {
+  padding: 10px;
+  background-color: #1184f0;
+}
+section {
+  padding-top: 5rem;
+}
