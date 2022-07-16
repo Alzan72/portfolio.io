@@ -1,0 +1,35 @@
+.navbar {
+    font-weight: bold;
+    font-size: 1.5em    
+}
+#carousel img {
+    height: 500px;
+}
+.satu {
+    border-right: 3px solid black;
+}
+
+.isi-profil {
+    padding-left:70px;
+    padding-right:70px;
+}
+
+footer {
+    background-color: rgb(20, 104, 14);
+    color: white;
+}
+
+/* Responsive */
+@media screen and (max-width:720px) {
+    .satu {
+        border: none;
+    }
+    .isi-profil {
+        padding: 5px 10px;
+    }
+}
+.link-kontak {
+    text-decoration: none;
+    font-size: 1.5em;
+    color: rgba(33, 90, 41, 0.684);
+}
